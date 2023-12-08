@@ -1,0 +1,6 @@
+.box_around {
+    background-color:beige;
+    border-color: black;
+    border: 10px;
+    padding: 10px;
+}
